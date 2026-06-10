@@ -1,4 +1,4 @@
-# 🌤️ Flask Global Weather Application
+# 🌤️Global Weather Application
 
 A dynamic, real-time web application built with Python and Flask that allows users to fetch instant weather updates for any city globally by integrating the **OpenWeatherMap REST API**.
 
